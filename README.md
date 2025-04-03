@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @lucasheber
-- 👀 I’m interested in developer's languages, PHP, Laravel and others ...
-- 🌱 I’m currently learning about Laravel, Flutter and Mobile programers ...
-- 💞️ I’m looking to collaborate on any things
-- 📫 How to reach me: lucas.heber07@gmail.com
+# Hi there, I'm Lucas Heber 👋
 
-<!---
-lucasheber/lucasheber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating efficient and scalable solutions. Here's a little about me:
+
+## 💻 Skills
+- **Backend Development**: PHP (Laravel ❤️), Python
+- **Frontend Development**: VueJS, ReactJS, Ionic
+- **Other Languages**: Java, NodeJS
+- **DevOps (Currently Studying)**: Terraform, GitHub Actions, AWS
+
+## 🌱 What I'm Currently Learning
+I'm diving deeper into the world of **DevOps** to enhance my skills in:
+- Infrastructure as Code with **Terraform**
+- CI/CD pipelines with **GitHub Actions**
+- Cloud computing with **AWS**
+
+At the same time, I'm continuously improving my expertise in **Laravel**, which remains my favorite framework.
+
+## 📫 Let's Connect
+Feel free to reach out or explore my repositories to see what I'm working on. I'm always open to collaboration and learning from others in the community!
+
+Thanks for stopping by! 🚀
